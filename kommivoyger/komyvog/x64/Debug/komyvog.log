@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(613,8): warning C4101: targetVertex: неиспользованная локальная переменная
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(614,8): warning C4101: edgeWeight: неиспользованная локальная переменная
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(447,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(446,1): message : во время компиляции функции-члена класс шаблон "void Graph<int>::DrawGraph(void)"
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(651,17): message : см. первую ссылку на "Graph<int>::DrawGraph" в "display"
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(56,12): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(353,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(350,24): message : во время компиляции функции-члена класс шаблон "void Graph<int>::Print(void)"
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(627,15): message : см. первую ссылку на "Graph<int>::Print" в "mouseClick"
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInit в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitDisplayMode в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitWindowSize в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutMainLoop в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutCreateWindow в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutPostRedisplay в функции "void __cdecl mouseClick(int,int,int,int)" (?mouseClick@@YAXHHHH@Z).
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutSwapBuffers в функции "void __cdecl display(void)" (?display@@YAXXZ).
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutDisplayFunc в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutReshapeFunc в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutMouseFunc в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutGet в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ glutBitmapCharacter в функции "void __cdecl drawMenuText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (?drawMenuText@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z).
+C:\glutdlls37beta\glut32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\glutdlls37beta\glut.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\panamera\Desktop\kamhear5\komyvog\x64\Debug\komyvog.exe : fatal error LNK1120: неразрешенных внешних элементов: 12

@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(420,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(482,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(613,8): warning C4101: targetVertex: неиспользованная локальная переменная
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(614,8): warning C4101: edgeWeight: неиспользованная локальная переменная
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(280,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(279,43): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(330,2): message : см. первую ссылку на "Graph<int>::GetVertPos" в "Graph<int>::InsertEdge"
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(322,19): message : см. первую ссылку на "Graph<int>::InsertEdge" в "makeGraph"
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(288,19): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(56,12): message : см. первую ссылку на "Graph<int>::Graph" в "void __cdecl `dynamic initializer for 'graph''(void)"
+C:\Users\panamera\Desktop\kamhear5\komyvog\komyvog\graph.h(56,12): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  komyvog.vcxproj -> C:\Users\panamera\Desktop\kamhear5\komyvog\Debug\komyvog.exe

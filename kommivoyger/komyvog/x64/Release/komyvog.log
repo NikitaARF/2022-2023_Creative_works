@@ -1,0 +1,13 @@
+﻿main.obj : error LNK2001: неразрешенный внешний символ glutBitmapCharacter.
+main.obj : error LNK2001: неразрешенный внешний символ glutInit.
+main.obj : error LNK2001: неразрешенный внешний символ glutReshapeFunc.
+main.obj : error LNK2001: неразрешенный внешний символ glutMouseFunc.
+main.obj : error LNK2001: неразрешенный внешний символ glutPostRedisplay.
+main.obj : error LNK2001: неразрешенный внешний символ glutCreateWindow.
+main.obj : error LNK2001: неразрешенный внешний символ glutInitDisplayMode.
+main.obj : error LNK2001: неразрешенный внешний символ glutDisplayFunc.
+main.obj : error LNK2001: неразрешенный внешний символ glutMainLoop.
+main.obj : error LNK2001: неразрешенный внешний символ glutGet.
+main.obj : error LNK2001: неразрешенный внешний символ glutInitWindowSize.
+main.obj : error LNK2001: неразрешенный внешний символ glutSwapBuffers.
+E:\kamhear5\komyvog\x64\Release\komyvog.exe : fatal error LNK1120: неразрешенных внешних элементов: 12
